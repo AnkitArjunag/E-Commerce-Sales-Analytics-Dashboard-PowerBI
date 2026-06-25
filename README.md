@@ -126,7 +126,7 @@ Developed custom measures including:
 > Add screenshot here
 
 ```markdown
-![Executive Dashboard](Images/Executive_Dashboard.png)
+![Executive Dashboard](Screenshots/Executive_Dashboard.png)
 ```
 
 ---
@@ -136,7 +136,7 @@ Developed custom measures including:
 > Add screenshot here
 
 ```markdown
-![Deep Dive Dashboard](Images/Deep_Dive_Analysis.png)
+![Deep Dive Dashboard](Screenshots/Deep_Dive_Analysis.png)
 ```
 
 ---
