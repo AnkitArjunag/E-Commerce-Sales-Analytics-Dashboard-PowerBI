@@ -123,21 +123,13 @@ Developed custom measures including:
 
 ### Executive Dashboard
 
-> Add screenshot here
-
-```markdown
 ![Executive Dashboard](Screenshots/Executive_Dashboard.png)
-```
 
 ---
 
 ### Deep Dive Analysis
 
-> Add screenshot here
-
-```markdown
-![Deep Dive Dashboard](Screenshots/Deep_Dive_Analysis.png)
-```
+![Deep Dive Analysis](Screenshots/Deep_Dive_Analysis.png)
 
 ---
 
